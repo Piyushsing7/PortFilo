@@ -50,7 +50,7 @@
 }
 
 .btn {
-    background: black;
+    background: white;
     margin: 1.5rem 0;
     padding: 0.5rem 1rem; /* smaller padding */
     border: none;
@@ -60,6 +60,9 @@
     align-items: center;
     font-size: 0.9rem; /* smaller text */
     font-weight: 500;
+    color: black;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
     transition: background 0.3s;
 }
 

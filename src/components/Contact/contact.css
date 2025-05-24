@@ -69,12 +69,14 @@
 }
 
 .submitBtn {
-    background: black;
+    background: rgb(255, 254, 254);
     border: none;
     border-radius: 0.5rem;
     margin: 2rem;
     padding: 0.75rem 3.5rem;
     cursor: pointer;
+    color: black;
+    color: blacks;
     font-weight: bold;
 }
 
